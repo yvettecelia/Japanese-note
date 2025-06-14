@@ -1,3 +1,5 @@
-**kanji:**食べる
+__kanji:__食べる
+
 **reading:**たべる
+
 **meaning:** eat
